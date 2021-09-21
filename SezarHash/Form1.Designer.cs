@@ -113,11 +113,11 @@ namespace SezarHash
             // 
             // label2
             // 
-            this.label2.Font = new System.Drawing.Font("Georgia", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Font = new System.Drawing.Font("Georgia", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.White;
-            this.label2.Location = new System.Drawing.Point(7, 408);
+            this.label2.Location = new System.Drawing.Point(67, 390);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(417, 41);
+            this.label2.Size = new System.Drawing.Size(302, 23);
             this.label2.TabIndex = 6;
             this.label2.Text = "Uygulama Kızıl Aslan tarafından tasarlandı";
             // 
@@ -149,7 +149,7 @@ namespace SezarHash
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.BackColor = System.Drawing.Color.DimGray;
-            this.ClientSize = new System.Drawing.Size(439, 484);
+            this.ClientSize = new System.Drawing.Size(439, 422);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.label2);
