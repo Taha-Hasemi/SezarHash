@@ -1,0 +1,10 @@
+C:\Users\RTC9911\source\repos\SezarHash\SezarHash\bin\Debug\SezarHash.exe.config
+C:\Users\RTC9911\source\repos\SezarHash\SezarHash\bin\Debug\SezarHash.exe
+C:\Users\RTC9911\source\repos\SezarHash\SezarHash\bin\Debug\SezarHash.pdb
+C:\Users\RTC9911\source\repos\SezarHash\SezarHash\obj\Debug\SezarHash.csprojAssemblyReference.cache
+C:\Users\RTC9911\source\repos\SezarHash\SezarHash\obj\Debug\SezarHash.Form1.resources
+C:\Users\RTC9911\source\repos\SezarHash\SezarHash\obj\Debug\SezarHash.Properties.Resources.resources
+C:\Users\RTC9911\source\repos\SezarHash\SezarHash\obj\Debug\SezarHash.csproj.GenerateResource.cache
+C:\Users\RTC9911\source\repos\SezarHash\SezarHash\obj\Debug\SezarHash.csproj.CoreCompileInputs.cache
+C:\Users\RTC9911\source\repos\SezarHash\SezarHash\obj\Debug\SezarHash.exe
+C:\Users\RTC9911\source\repos\SezarHash\SezarHash\obj\Debug\SezarHash.pdb
