@@ -15,44 +15,38 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_40CBC12FEB854F05B2790D9E54E940BF"
+        "MsmKey" = "8:_2132597DC8DE476E9CBF763013D75A66"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_840C218168BA4559942C5C1E46C31312"
+        "MsmKey" = "8:_6428E36AB39A44169FB84B609647263B"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_8D0D549E111A4B5B8E74FE73562D7F3F"
+        "MsmKey" = "8:_BDCB8D84DBD24D4A91AD677339C3876C"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_99DF0D2AB8334AABB5268712619E91C0"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_FC2F0811A8D54DCA8C8148CA45068A73"
+        "MsmKey" = "8:_DD863C2F34DC4A22B86274D2AD60D3B7"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_99DF0D2AB8334AABB5268712619E91C0"
+        "OwnerKey" = "8:_DD863C2F34DC4A22B86274D2AD60D3B7"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_8D0D549E111A4B5B8E74FE73562D7F3F"
+        "OwnerKey" = "8:_2132597DC8DE476E9CBF763013D75A66"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -73,6 +67,22 @@
         "PrivateKeyFile" = "8:"
         "TimeStampServer" = "8:"
         "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.7.2"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.7.2 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.7.2"
+                    }
+                }
+            }
         }
         "Release"
         {
@@ -89,6 +99,14 @@
         "PrivateKeyFile" = "8:"
         "TimeStampServer" = "8:"
         "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+            }
         }
     }
     "Deployable"
@@ -118,54 +136,14 @@
         }
         "File"
         {
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_40CBC12FEB854F05B2790D9E54E940BF"
-            {
-            "SourcePath" = "8:..\\SezarHash\\Iconsmind-Outline-Key-Lock.ico"
-            "TargetName" = "8:Iconsmind-Outline-Key-Lock.ico"
-            "Tag" = "8:"
-            "Folder" = "8:_83D4BBBEBD014F328214510D3195AC61"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_840C218168BA4559942C5C1E46C31312"
-            {
-            "SourcePath" = "8:..\\SezarHash\\bin\\Debug\\SezarHash.pdb"
-            "TargetName" = "8:SezarHash.pdb"
-            "Tag" = "8:"
-            "Folder" = "8:_83D4BBBEBD014F328214510D3195AC61"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_8D0D549E111A4B5B8E74FE73562D7F3F"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_2132597DC8DE476E9CBF763013D75A66"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
             "AssemblyAsmDisplayName" = "8:SezarHash, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_8D0D549E111A4B5B8E74FE73562D7F3F"
+                    "_2132597DC8DE476E9CBF763013D75A66"
                     {
                     "Name" = "8:SezarHash.exe"
                     "Attributes" = "3:512"
@@ -189,21 +167,10 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_99DF0D2AB8334AABB5268712619E91C0"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6428E36AB39A44169FB84B609647263B"
             {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:SezarHash, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_99DF0D2AB8334AABB5268712619E91C0"
-                    {
-                    "Name" = "8:SezarHash.exe"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:..\\SezarHash\\bin\\Debug\\SezarHash.exe"
-            "TargetName" = "8:"
+            "SourcePath" = "8:..\\SezarHash\\bin\\Debug\\SezarHash.exe.config"
+            "TargetName" = "8:SezarHash.exe.config"
             "Tag" = "8:"
             "Folder" = "8:_83D4BBBEBD014F328214510D3195AC61"
             "Condition" = "8:"
@@ -220,10 +187,41 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_FC2F0811A8D54DCA8C8148CA45068A73"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_BDCB8D84DBD24D4A91AD677339C3876C"
             {
-            "SourcePath" = "8:..\\SezarHash\\bin\\Debug\\SezarHash.exe.config"
-            "TargetName" = "8:SezarHash.exe.config"
+            "SourcePath" = "8:..\\SezarHash\\bin\\Debug\\SezarHash.pdb"
+            "TargetName" = "8:SezarHash.pdb"
+            "Tag" = "8:"
+            "Folder" = "8:_83D4BBBEBD014F328214510D3195AC61"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_DD863C2F34DC4A22B86274D2AD60D3B7"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:SezarHash, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_DD863C2F34DC4A22B86274D2AD60D3B7"
+                    {
+                    "Name" = "8:SezarHash.exe"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\SezarHash\\bin\\Debug\\SezarHash.exe"
+            "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_83D4BBBEBD014F328214510D3195AC61"
             "Condition" = "8:"
@@ -297,7 +295,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Sezar Hash"
         "ProductCode" = "8:{4721CD08-DE0E-4B67-A7AD-00D0F136E9BB}"
-        "PackageCode" = "8:{91CF51E0-F8AD-474D-BDA9-8D97B1AB7B06}"
+        "PackageCode" = "8:{98F9A1C5-CEAE-4C26-9B26-024C4C034FBC}"
         "UpgradeCode" = "8:{1364541E-FDF2-4C99-8037-9A02D85F40AD}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
